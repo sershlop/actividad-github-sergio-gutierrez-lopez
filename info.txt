@@ -1,0 +1,7 @@
+# sergio gutierrez lopez
+# 11/03/2026
+# aprender el uso basico de git y github incluyendo la creacion de repositorios ,commits y pull requests
+#¿Qué es un Pull Request?
+#Un Pull Request es una solicitud que se hace en GitHub para fusionar los cambios de una rama a otra. Permite que otros revisén el código antes de integrarlo al proyecto principal.
+
+

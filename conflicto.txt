@@ -1,3 +1,3 @@
 #proyecto: Git Conflicts
-#Responsable: sergio
+#Responsable: Equipo-A
 #Version:1.0
